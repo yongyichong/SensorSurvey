@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorSurvey</string>
+
+    <!-- Label for the list of sensors -->
+    <string name="label_sensors">Sensors</string>
+
+    <!-- Sensor list is dynamically built;  this is the placeholder for view -->
+    <string name="placeholder_text">(placeholder)</string>
+</resources>
